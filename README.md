@@ -12,7 +12,7 @@ This diagram shows the number of steps involved in the development of this app.
 
 #### Saved Data
 
-The data used in the creation of the app consists of two CSV files named "train" and "test." The training set has 464 rows and 13 columns, while the test dataset has 123 rows and 12 columns.
+The data used in the creation of the app consists of two CSV files named "train" and "test." The training set has 464 rows and 13 columns, while the test dataset has 123 rows and 13 columns.
 
 #### Data Preprocessing
 
