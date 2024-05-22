@@ -45,3 +45,24 @@ Once validation is complete, we save the model using the pickle method. Although
 #### Model Serving
 
 Once the model is deployed, we need to determine how users can interact with it. We use Flask API for this purpose.
+
+## Running it locally
+
+To run this project locally first clone this repo
+
+```bash
+  git clone https://github.com/muditprakash/loan_approval_prediction_app.git
+```
+Once this is done install requirements.txt file as 
+
+```
+pip install requirements.txt
+
+```
+
+And then run app.py file as 
+
+```
+python run app.py
+
+```
