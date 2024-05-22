@@ -56,13 +56,13 @@ To run this project locally first clone this repo
 Once this is done install requirements.txt file as 
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 
 ```
 
 And then run app.py file as 
 
 ```
-python run app.py
+python app.py
 
 ```
