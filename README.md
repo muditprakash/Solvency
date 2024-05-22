@@ -57,14 +57,12 @@ Once this is done install requirements.txt file as
 
 ```
 pip install -r requirements.txt
-
 ```
 
 And then run app.py file as 
 
 ```
 python app.py
-
 ```
 
 Once done you will see a UI powered by flask running inyour browser something like this : 
