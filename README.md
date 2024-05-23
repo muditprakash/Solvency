@@ -7,8 +7,7 @@ This mini project addresses a classic use case in the banking sector: deciding w
 
 This diagram shows the number of steps involved in the development of this app.
 
-![Capture](https://github.com/muditprakash/loan_approval_prediction_app/assets/75181670/72be6db2-9eaf-4afd-ade6-c317a8f5d300)
-
+![technical diagram](https://github.com/muditprakash/loan-approval-prediction-app/assets/75181670/9c05736f-b851-459f-98db-f907c749df8b)
 
 #### Saved Data
 
@@ -39,7 +38,7 @@ We used the XGBoost model for this task, employing methods like k-fold cross-val
 We used the validation dataset to test the model's performance. Our aim is to achieve at least 80% accuracy. If the model fails to meet this threshold, we will reiterate the model development process.
 We acheived the accuracy of 87% here.
 
-#### Model Deployment
+#### Model Saving
 
 Once validation is complete, we save the model using the pickle method. Although we are saving the model locally, we plan to deploy and test the model on the cloud. We establish a connection with the cloud, install the necessary requirements, and test the model there.
 
