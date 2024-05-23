@@ -7,7 +7,7 @@ This mini project addresses a classic use case in the banking sector: deciding w
 
 This diagram shows the number of steps involved in the development of this app.
 
-![technical diagram](https://github.com/muditprakash/loan-approval-prediction-app/assets/75181670/9c05736f-b851-459f-98db-f907c749df8b)
+![td updated](https://github.com/muditprakash/loan-approval-prediction-app/assets/75181670/f40ebe58-b1cb-4b7c-9279-2e321f2864c2)
 
 #### Saved Data
 
