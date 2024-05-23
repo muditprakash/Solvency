@@ -37,6 +37,7 @@ We used the XGBoost model for this task, employing methods like k-fold cross-val
 #### Model Validation
 
 We used the validation dataset to test the model's performance. Our aim is to achieve at least 80% accuracy. If the model fails to meet this threshold, we will reiterate the model development process.
+We acheived the accuracy of 87% here.
 
 #### Model Deployment
 
