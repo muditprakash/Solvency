@@ -65,12 +65,5 @@ And then run app.py file as
 python app.py
 ```
 
-Once done you will see a UI powered by flask running inyour browser something like this : 
-
-![app](https://github.com/muditprakash/loan_approval_prediction_app/assets/75181670/8eadd0e4-7e2f-4e9b-bfb7-7a677afb179f)
-
-And once you filled the suitable information you will see the result like this : 
-
-![prediction](https://github.com/muditprakash/loan_approval_prediction_app/assets/75181670/4fe457fa-2a57-4ed3-be8c-eb1e975bafa1)
 
 
