@@ -51,7 +51,7 @@ Once the model is deployed, we need to determine how users can interact with it.
 To run this project locally first clone this repo
 
 ```bash
-  git clone https://github.com/muditprakash/loan_approval_prediction_app.git
+  git clone https://github.com/muditprakash/Solvency.git
 ```
 Once this is done install requirements.txt file as 
 
