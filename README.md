@@ -65,5 +65,9 @@ And then run app.py file as
 python app.py
 ```
 
+## Demo
+
+https://github.com/muditprakash/Solvency/assets/75181670/220871f3-dcb5-4b04-b33f-5c412f72c5d0
+
 
 
